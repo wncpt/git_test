@@ -2,3 +2,4 @@ i'm potato
 hi,i'm buddy!!!
 creating a new branch is quick and simple
 add merge!
+i'm comming to fix bug,now bug fixed!
