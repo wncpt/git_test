@@ -1,0 +1,1 @@
+"image://data:image/svg+xml,%3Csvg width='580' height='400' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='%2300d1e3' d='M45.75 263.365l82.412-1.404 69.274-127.02L273.876 358 400.48 42l66.885 216.863h66.885' stroke-width='20' fill='rgba(255,255,255,0)'/%3E%3C/svg%3E"
